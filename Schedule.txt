@@ -1,0 +1,33 @@
+Ramadan Quran Reading Schedule 
+
+- [ ] Day 1: Al Fatiha -Al baqarah 140
+- [ ] Day 2: Al baqarah 141-252
+- [ ] Day 3: Al baqarah 253 - Al Imran 92
+- [ ] Day 4: Al Imran 93- Al Nisa 23
+- [ ] Day 5: An-Nisa 24 - An-Nisa 147
+- [ ] Day 6: An-Nisa 148 - Al-Ma'idah 81
+- [ ] Day 7: Al-Ma'idah 82 - Al-An'am 110
+- [ ] Day 8: Al-An'am 111 - Al-A'raf 87
+- [ ] Day 9: Al-A'raf 88 - Al-Anfal 40
+- [ ] Day 10: Al-Anfal 41 - At-Tawbah 92
+- [ ] Day 11: At-Tawbah 93 - Hud 5
+- [ ] Day 12: Hud 6 - Yusuf 52, h31
+- [ ] Day 13: Yusuf 53 - Ibrahim 52
+- [ ] Day 14: Al-Hijr 1 - An-Nahl 128
+- [ ] Day 15: Al-Isra 1 - Al-Kahf 74
+- [ ] Day 16: Al-Kahf 75 - Ta-Ha 135
+- [ ] Day 17: Al-Anbiyaa 1 - Al Hajj 76
+- [ ] Day 18: Al-Mu'minun 1 - Al-Furqan 20
+- [ ] Day 19: Al-Furqan 21 - An-Naml 55
+- [ ] Day 20: An-Naml 56 - Al-Ankabut 45
+- [ ] Day 21: Al-Ankabut 46 - Al-Azhab 30
+- [ ] Day 22: Al-Azhab 31 - Ya-Seen 27
+- [ ] Day 23: Ya-Seen 28 - Az-Zumar 31
+- [ ] Day 24: Az-Zumar 32 - Fussilat 46
+- [ ] Day 25: Fussilat 47 - Al-Jasiyah 37
+- [ ] Day 26: Al-Ahqaf 1 - Adh-Dhariyat 30
+- [ ] Day 27: Adh-Dhariyat 31 - Al-Hadid 29
+- [ ] Day 28: Al-Mujadilah 1 - At-Tahrim 12
+- [ ] Day 29: Al-Mulk 1 - Al-Mursalat 50
+- [ ] Day 30: An-Naba 1 - An-Nas 6
+
